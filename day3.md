@@ -21,7 +21,8 @@ Role based prompting improves the quality of responses by guiding the AI to thin
 
 eg. Write a quick outreach email to [person] about partnering up. , You are a salesperson. Write a quick outreach email to [person] about partnering up. etc.
 ![5hrs quote](image-2.png)
-![after prompting added about 10,000 quotas](image-3.png)
+![after prompting added about 10,000 quotas while processing the image ](image-3.png)
+![after retuning the text and all left ](image-4.png)
 
 What is Role-Based Prompting?
 Role-Based Prompting means telling Claude who to be before asking it anything. Instead of just asking a question, you first assign Claude a professional identity — "Act as a senior software engineer" or "You are an experienced HR Manager" — and then ask your question.
